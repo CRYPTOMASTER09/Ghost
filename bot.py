@@ -38,10 +38,10 @@ class GHOST:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}GHOST BOT SCRIPT BY {Fore.BLUE + Style.BRIGHT}HACKER WORLD BD
+        {Fore.GREEN + Style.BRIGHT}GHOST BOT SCRIPT BY {Fore.BLUE + Style.BRIGHT} CRYPTO MASTER ❤️
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Join Script Channel {Fore.YELLOW + Style.BRIGHT}https://t.me/HACKER_WORLD_BD
+        {Fore.GREEN + Style.BRIGHT}Join Script Channel {Fore.YELLOW + Style.BRIGHT}https://t.me/airdropconfirm97
             """
         )
 
